@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>HugoTestWeb/posts/my-forst-post/</loc>
+    <loc>/HugoTestWeb/posts/my-forst-post/</loc>
     <lastmod>2022-10-06T15:28:59+09:00</lastmod>
   </url><url>
-    <loc>HugoTestWeb/posts/</loc>
+    <loc>/HugoTestWeb/posts/</loc>
     <lastmod>2022-10-06T15:28:59+09:00</lastmod>
   </url><url>
-    <loc>HugoTestWeb/</loc>
+    <loc>/HugoTestWeb/</loc>
     <lastmod>2022-10-06T15:28:59+09:00</lastmod>
   </url><url>
-    <loc>HugoTestWeb/categories/</loc>
+    <loc>/HugoTestWeb/categories/</loc>
   </url><url>
-    <loc>HugoTestWeb/tags/</loc>
+    <loc>/HugoTestWeb/tags/</loc>
   </url>
 </urlset>
